@@ -1,0 +1,9 @@
+/* Estilos da página professores */
+
+.content-container {
+    padding: 20px;
+}
+
+.content-container > div img {
+    width: 100%;
+}
