@@ -33,3 +33,8 @@ main section abbr {
         text-align: center;
     }
 }
+
+.section-video div iframe {
+    width: 100%;
+    margin: auto;
+}
